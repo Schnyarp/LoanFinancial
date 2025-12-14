@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://loan.financial/sitemap.xml
